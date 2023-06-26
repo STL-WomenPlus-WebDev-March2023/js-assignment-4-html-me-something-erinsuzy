@@ -1,9 +1,19 @@
 body {
-    margin: 8px
+    margin: 8px;
+    width: 100%;
+	max-width: 1024px;
+    font-size: 20px;
 }
 #mainHeading {
     color: red;
 }
 #testP.funParagraph {
-    color:green
+    color:green;
+}
+#jill {
+    font-size: 75px;
+    align-items: center;
+}
+figcaption {
+	font-style: italic;
 }
