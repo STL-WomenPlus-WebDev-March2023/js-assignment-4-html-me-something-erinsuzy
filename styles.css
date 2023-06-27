@@ -1,5 +1,14 @@
+header,
+main,
+footer {
+	background-color:lightblue;
+	
+}
+
+
 body {
     margin: 8px;
+    padding: 50px 50px 100px 50px;
     width: 100%;
 	max-width: 1024px;
     font-size: 20px;
@@ -12,7 +21,7 @@ body {
 }
 #jill {
     font-size: 75px;
-    align-items: center;
+    padding: 50px 200px 25px;
 }
 figcaption {
 	font-style: italic;
